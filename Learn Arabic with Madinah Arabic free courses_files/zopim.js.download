@@ -1,7 +1,0 @@
-window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set._.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute("charset","utf-8");$.src="//v2.zopim.com/?1wL0h1xhsAHG3N2IDvpKOE2gzmk8RaI2";z.t=+new Date;$.type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
-
-/*
-<!-- Start of madinaharabic Zendesk Widget script -->
-<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=f35b47df-f0c2-499e-b119-5805dfd30012"> </script>
-<!-- End of madinaharabic Zendesk Widget script -->
-*/
